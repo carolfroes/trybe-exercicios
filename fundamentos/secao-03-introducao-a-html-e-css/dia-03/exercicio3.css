@@ -3,10 +3,17 @@ p {
     text-align: center;
 }
 
-li:hover {
-    color: aquamarine;
+ul:hover,
+ol:hover {
+    background-color: aquamarine;
 }
 
+
 li:active {
-    color: salmon;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+li {
+    list-style: none;
 }
