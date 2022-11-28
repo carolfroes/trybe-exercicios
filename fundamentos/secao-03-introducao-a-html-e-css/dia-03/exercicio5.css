@@ -29,7 +29,7 @@ li em {
     font-weight: 700;
 }
 
-#linguagens li:not(:nth-child(n + 4)) {
+#linguagens li:not(:nth-child(n + 3)) {
     color: blue;
 }
 
