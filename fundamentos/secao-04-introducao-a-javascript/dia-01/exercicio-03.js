@@ -1,4 +1,4 @@
-const grade = 40;
+const grade = 80;
 if (grade >= 80) {
     console.log('Parabéns, você foi aprovado(a)!');
 } else if (grade < 80 && grade >= 60) {
