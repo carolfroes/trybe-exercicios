@@ -1,4 +1,4 @@
-const status = 'lista';
+const status = 'aprovada';
 
 switch (status) {
     case 'aprovada':
