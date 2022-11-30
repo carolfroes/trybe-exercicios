@@ -1,16 +1,16 @@
-const status = 'aprovada';
+const status = 'lista';
 
 switch (status) {
     case 'aprovada':
-        console.log("Parabéns, você foi aprovada(o)!");
+        console.log('Parábens, você foi aprovado(a)')
         break;
     case 'lista':
-        console.log("Você está na nossa lista de espera");
+        console.log('você está na nossa lista de espera')
         break;
     case 'reprovada':
-        console.log("Você foi reprovada(o)");
+        console.log('Você foi reprovado(a)')
         break;
     default:
-        console.log("Informação incorreta");
+        console.log('Informação incorreta')
         break;
 }
