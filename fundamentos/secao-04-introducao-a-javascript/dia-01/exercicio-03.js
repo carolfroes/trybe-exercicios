@@ -1,3 +1,5 @@
+//🚀
+
 const grade = 70;
 
 if (grade >= 80) {
