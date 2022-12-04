@@ -6,7 +6,3 @@ if (bebida === 'cafézinho' && comida === 'pão na chapa') {
 } else {
     console.log('Acho que houve um engano com meu pedido');
 };
-
-const conditionOne = true;
-const conditionTwo = false;
-console.log(conditionOne && conditionTwo);

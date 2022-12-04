@@ -1,3 +1,5 @@
+//🚀
+
 const myName = 'Carolina';
 const birthCity = 'Manaus';
 const birthYear = 2030;
