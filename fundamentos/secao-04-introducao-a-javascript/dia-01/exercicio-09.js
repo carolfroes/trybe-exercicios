@@ -1,12 +1,12 @@
 
-const a = 34
-const b = 45
-const c = 56
+const a = 7;
+const b = 3;
+const c = 2;
 
-if (b > a && b < c) {
-    console.log('O maior número é: ' + c + ' (c)');
-} else if (c > a && c > b) {
-    console.log('O maior número é: ' + c + ' (c)');
+if (a > b && a > c) {
+    console.log('O maior número é: ' + a + ' (a)');
+} else if (b > a && b < c) {
+    console.log('O maior número é: ' + b + ' (b)');
 } else {
     console.log('O maior número é: ' + c + ' (c)');
 }
