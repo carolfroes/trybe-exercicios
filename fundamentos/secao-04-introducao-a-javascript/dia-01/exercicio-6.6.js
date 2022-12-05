@@ -1,5 +1,5 @@
 
-mes = 'maio';
+mes = 'Trybe';
 let estacaoDoAno = '?';
 
 switch (mes) {
