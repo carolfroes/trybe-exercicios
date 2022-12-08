@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="/secao-05-javascript-dom-eventos-e-web-storage/dia-01/style.css">
+
+    <body>
+        <header>
+            <h2 id="page-title">Título</h2>
+            <p class="paragraph">Dê uma cor para este parágrafo!</p>
+            <h4 id="subtitle">Subtítulo</h4>
+            <p class="paragraph">Segundo parágrafo!</p>
+        </header>
+        <script>
+            //const paragraph = document.getElementById("paragraph");
+            //paragraph.style.color = "red";
+
+            const tittle = document.getElementById("page-tittle"); tittle.innerText = 'Orgulho & Preconceito';
+
+            const secondParagraph = document.getElementsByClassName("paragraph");
+            secondParagraph.innerText = 'This is my life'
+
+            const subtitle = document.getElementById('subtitle');
+            subtitle.innerText = 'So long and thanks for all the fish';
+
+            const paragraphs = document.getElementsByClassName("paragraph");
+            paragraph[0].style.backgroundColor = 'blue'
+            paragraph[0].style.fontSize = '20px'
+
+        </script>
+    </body>
+
+</html>
