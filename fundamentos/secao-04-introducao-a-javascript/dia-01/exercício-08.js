@@ -1,9 +1,8 @@
-
-const a = 29;
-const b = 46;
+const a = 5;
+const b = 2;
 
 if (a > b) {
-    console.log('a é maior que b')
+    console.log('a é maior que b');
 } else {
-    console.log('b é maior que a')
+    console.log('b é maior que a');
 }
