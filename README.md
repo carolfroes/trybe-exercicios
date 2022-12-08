@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Carolina Fróes Monteiro](https://www.linkedin.com/in/carolinafroes/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Carolina Fróes Monteiro](https://www.linkedin.com/in/carolinafroes/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket::rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -28,9 +28,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 4. Introdução à JavaScript
 - [x] 4-1: _JavaScript - Primeiros passos_
 - [x] 4-2: _JavaScript - Array e loop For_
-- [ ] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- [ ] 4-4: _JavaScript - Objetos e funções_
-- [ ] 4-5: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 4-6: _Projeto - Playground Functions_
+- [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+- [x] 4-4: _JavaScript - Objetos e funções_
+- [x] 4-5: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [x] 4-6: _Projeto - Playground Functions_
 
-_[Em progresso]_
+##### Bloco 5. JavaScript: DOM, Eventos e Web Storage
+- [x] 5-1: _JavaScript - Dom e Seletores_
+- [ ] 5-2: _JavaScript - Trabalhando com elementos_
+- [ ] 5-3: _JavaScript - Eventos_
+- [ ] 5-4: _JavaScript - Web Storage_
+- [ ] 5-5: _Projeto - Arte com Pixels_
+- [ ] 5-6: _Projeto Bônus_
+  
+
+_[Dezembro - 2022]_
